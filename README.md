@@ -1,5 +1,5 @@
 # HTML Intro
-Hier findest Du Datein zur selbständigen Kontrolle der Übungen.
+Hier findest Du die Aufgaben und die dazugehörigen Datein zur selbständigen Kontrolle der Übungen.
 
 
 [Übung 1 - Website untersuchen](https://docs.google.com/document/d/1jHlIqepXL2CLVQTv15y65M_DT85Sz08MZJnRz8inAHw/edit?usp=sharing)  
