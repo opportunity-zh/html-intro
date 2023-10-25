@@ -10,3 +10,9 @@ Hier findest Du die Aufgaben und die dazugehörigen Datein zur selbständigen Ko
 
 [Übung 3 - Text strukturieren und formatieren](https://docs.google.com/document/d/1SbjVMaXaL7z_RtT6RCu6i-bDRxuyuwItksPjbA9yRzI/edit?usp=sharing)  
 [Lösung](https://github.com/opportunity-zh/html-intro/blob/main/03%20-%20Text%20strukturieren%20und%20formatieren/index.html)  
+
+[Übung 4 - Links](https://docs.google.com/document/d/1NthQ7VtFKlGjbRTtBNbZqLGTwO1okbzeTACQrkKlewQ/edit?usp=sharing)  
+[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/04%20-%20Links)  
+
+[Übung 5 - Formulare]  
+[Lösung]
