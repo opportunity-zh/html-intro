@@ -5,12 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meine erste HTML Seite</title>
+    
+    <!-- import Material Design Icons-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"/>
 </head>
 <body>
      <!-- Header (Logo,...) -->
      <header>
-       <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="128" height="128" alt="HTML5 Logo">
-     </header>
+        <!-- Pixellogo -->
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="128" height="128" alt="HTML5 Logo">
+     
+        <!-- Vektorlogo -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="128" height="128">
+            <path fill="#E34F26" d="M71,460 L30,0 481,0 440,460 255,512"/>
+            <path fill="#EF652A" d="M256,472 L405,431 440,37 256,37"/>
+            <path fill="#EBEBEB" d="M256,208 L181,208 176,150 256,150 256,94 255,94 114,94 115,109 129,265 256,265zM256,355 L255,355 192,338 188,293 158,293 132,293 139,382 255,414 256,414z"/>
+            <path fill="#FFF" d="M255,208 L255,265 325,265 318,338 255,355 255,414 371,382 372,372 385,223 387,208 371,208zM255,94 L255,129 255,150 255,150 392,150 392,150 392,150 393,138 396,109 397,94z"/>
+        </svg>
+      </header>
         
      <!-- Menü (Links) -->
      <nav>
@@ -62,8 +74,8 @@
    
      <!-- Sidebar (Nebeninformationen) -->
      <aside>
-      <a href="./about.html">Über mich</a>
-      <a href="./contact.html">Kontakt</a>
+      <a href="./about.html"><span class="material-symbols-outlined">person</span>Über mich</a>
+      <a href="./contact.html"><span class="material-symbols-outlined">description</span></i>Kontakt</a>
     </aside>
 
      <!-- Footer (Adresse, Kontaktangaben, Copyright, Links, ...) -->
@@ -71,5 +83,7 @@
         <address>Strasse Nr, PLZ Ort</address>
         <p>&copy; Vorname Nachname</p>
      </footer>
+     
+
 </body>
 </html>
