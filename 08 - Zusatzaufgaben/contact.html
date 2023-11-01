@@ -15,7 +15,8 @@
         <h1>Kontakt</h1>
         <form action="https://getform.io/f/DEINE_NUMMER" method="POST">
 
-          <div>
+          <fieldset>
+              <legend>Anrede</legend>
             <div>
               <input type="radio" id="frau" name="salutation" value="frau" checked>
               <label for="frau">Frau</label>
@@ -25,7 +26,7 @@
               <input type="radio" id="herr" name="salutation" value="herr">
               <label for="herr">Herr</label>
             </div>
-          </div>
+          </fieldset>
 
             <div>
               <label for="">Vor- und Nachname</label>
@@ -35,6 +36,17 @@
             <div>
               <label for="">E-Mail Adresse</label>
               <input type="email" name="email" required>
+            </div>
+
+            <div>
+                <label>Wie bist Du auf die Website gelangt?</label>
+                <select name="source">
+                    <option value="suchmaschine">Über eine Suchmaschine</option>
+                    <option value="soziale_medien">Über soziale Medien</option>
+                    <option value="empfehlung">Durch Empfehlung von Freunden</option>
+                    <option value="direkteingabe">Direkteingabe der URL</option>
+                    <option value="werbung">Durch Werbung</option>
+                </select>
             </div>
 
             <div>
