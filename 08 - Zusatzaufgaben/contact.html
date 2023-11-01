@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt</title>
+</head>
+
+
+<body>
+    <main>
+        <a href="./index.html">Startseite</a>
+        <h1>Kontakt</h1>
+        <form action="https://getform.io/f/DEINE_NUMMER" method="POST">
+
+          <div>
+            <div>
+              <input type="radio" id="frau" name="salutation" value="frau" checked>
+              <label for="frau">Frau</label>
+            </div>
+
+            <div>
+              <input type="radio" id="herr" name="salutation" value="herr">
+              <label for="herr">Herr</label>
+            </div>
+          </div>
+
+            <div>
+              <label for="">Vor- und Nachname</label>
+              <input type="text" name="fullname" required>
+            </div>
+
+            <div>
+              <label for="">E-Mail Adresse</label>
+              <input type="email" name="email" required>
+            </div>
+
+            <div>
+              <label for="">Nachricht</label>
+              <textarea name="message" required></textarea>
+            </div>
+            
+
+            <button type="submit">Senden</button>
+
+        </form>
+    </main>
+    
+</body>
+</html>
