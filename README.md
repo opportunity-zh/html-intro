@@ -15,4 +15,7 @@ Hier findest Du die Aufgaben und die dazugehörigen Datein zur selbständigen Ko
 [Lösung](https://github.com/opportunity-zh/html-intro/tree/main/04%20-%20Links)  
 
 [Übung 5 - Formulare](https://docs.google.com/document/d/1vI3nz5fsJmD_wL4f90lMLOdHO_vpmCtmdegp4fvCxC8/edit?usp=sharing)  
-[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/05%20-%20Formulare)
+[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/05%20-%20Formulare)  
+
+[Übung 8 - Zusatzaufgaben](https://docs.google.com/document/d/1mVXpmfJHje13frE-YCwBAnvB6HhMGD7fmiaI3oQNdcs/edit?usp=sharing)  
+[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/08%20-%20Zusatzaufgaben)
