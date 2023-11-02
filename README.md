@@ -17,5 +17,11 @@ Hier findest Du die Aufgaben und die dazugehörigen Datein zur selbständigen Ko
 [Übung 5 - Formulare](https://docs.google.com/document/d/1vI3nz5fsJmD_wL4f90lMLOdHO_vpmCtmdegp4fvCxC8/edit?usp=sharing)  
 [Lösung](https://github.com/opportunity-zh/html-intro/tree/main/05%20-%20Formulare)  
 
+[Übung 6 - Multimedia](https://docs.google.com/document/d/1-kB4kkhA2XKD-EPCqVRlCpxTP7_Elq-FHZBPPL9-Bls/edit?usp=sharing)  
+[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/06%20-%20Multimedia)  
+
+[Übung 7 - Meta Tags](https://docs.google.com/document/d/1XSKgnZryc_Tt95mWEWpEUjJUsVfDBKGKU7yophMwr3c/edit?usp=sharing)  
+[Lösung](https://github.com/opportunity-zh/html-intro/tree/main/07%20-%20Meta%20Tags)  
+
 [Übung 8 - Zusatzaufgaben](https://docs.google.com/document/d/1mVXpmfJHje13frE-YCwBAnvB6HhMGD7fmiaI3oQNdcs/edit?usp=sharing)  
 [Lösung](https://github.com/opportunity-zh/html-intro/tree/main/08%20-%20Zusatzaufgaben)
